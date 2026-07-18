@@ -1,0 +1,683 @@
+{
+  "users": {
+    "2102908949": {
+      "coin": 1e+27,
+      "registered": true,
+      "joined": true,
+      "refCount": 0,
+      "referredBy": null,
+      "joinedAt": 1783867137368,
+      "lastClaim": 0,
+      "isBanned": false,
+      "isVip": true,
+      "vip": true,
+      "lastAnimeloversVipUse": 1784035500289,
+      "alightApiKey": "dkf_e5a4e7cf",
+      "misiSelesai": false,
+      "awaitingAdminMessage": false,
+      "nama": "HangzReall (Owner)",
+      "password": "hgz123"
+    },
+    "6275668055": {
+      "coin": 2000,
+      "registered": true,
+      "joined": true,
+      "refCount": 0,
+      "referredBy": null,
+      "joinedAt": 1783869976530,
+      "lastClaim": 0,
+      "isBanned": false,
+      "isVip": true,
+      "vip": true,
+      "lastAnimeloversVipUse": 1783877722816,
+      "alightApiKey": null,
+      "misiSelesai": false,
+      "awaitingAdminMessage": false,
+      "nama": "polsekjaktim",
+      "password": "polsekjaktim21"
+    },
+    "5581580711": {
+      "coin": 1000000000000000,
+      "registered": true,
+      "joined": true,
+      "refCount": 0,
+      "referredBy": null,
+      "joinedAt": 1783870084595,
+      "lastClaim": 1783870163390,
+      "isBanned": false,
+      "isVip": false,
+      "vip": false,
+      "lastAnimeloversVipUse": null,
+      "alightApiKey": "dkf_e5a4e7cf",
+      "misiSelesai": false,
+      "awaitingAdminMessage": false,
+      "nama": "syahhangga",
+      "password": "Ppk"
+    }
+  },
+  "scripts": [
+    {
+      "name": "SC COIN PUSH CH [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAAIBA2pTuqMAAYuqQ2aLDWM7Ei6CxeiO2AACICMAAn8coVYMmpgX8CbPsDwE",
+      "price": 500000
+    },
+    {
+      "name": "ZYRO MD TELE(Copy).zip",
+      "fileId": "BQACAgUAAxkBAAIBBGpTuqNcq-UuOHU88DxvZf2Kx-DhAAIhIwACfxyhVudp2UfVrQv4PAQ",
+      "price": 500000
+    },
+    {
+      "name": "base-plugins.zip",
+      "fileId": "BQACAgUAAxkBAAIBBWpTuqOsymicHBmsLebRm7-haowbAAIiIwACfxyhVnBmBQMHG6sMPAQ",
+      "price": 500000
+    },
+    {
+      "name": "Base Simple Bot [ Telegram ].zip",
+      "fileId": "BQACAgUAAxkBAAIBBmpTuqNBSHuYB9rb5zi6DiED_ApWAAIjIwACfxyhVhYRM_c0Jxl4PAQ",
+      "price": 500000
+    },
+    {
+      "name": "SC UBOT V4@JunMoods.zip",
+      "fileId": "BQACAgUAAxkBAAIBB2pTuqPQ7EoEIAjlWQi_HCVdLcfXAAIkIwACfxyhVhLFvYP91MX5PAQ",
+      "price": 500000
+    },
+    {
+      "name": "REACTION BASEX.zip",
+      "fileId": "BQACAgUAAxkBAAIBCGpTuqPF2GPdAtZCMyH05URRwCulAAIlIwACfxyhVkrI7hjjYWaAPAQ",
+      "price": 500000
+    },
+    {
+      "name": "FREE.zip",
+      "fileId": "BQACAgUAAxkBAAIBCWpTuqOjD8vWAXamQOU3qH8-KBxwAAImIwACfxyhVq-W9pNu9D1JPAQ",
+      "price": 500000
+    },
+    {
+      "name": "PREMIUM-SCRIPT-BOTUSER.AYRA (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBCmpTuqN70F7kzTV7J2-Lu_C1w10jAAInIwACfxyhVvNdmxpu0cBLPAQ",
+      "price": 500000
+    },
+    {
+      "name": "XeonTGbot-main.zip",
+      "fileId": "BQACAgUAAxkBAAIBC2pTuqMDScq9tFpmPqk8eSUEmOrAAAIoIwACfxyhVhrocp45yqEKPAQ",
+      "price": 500000
+    },
+    {
+      "name": "xzubot.zip",
+      "fileId": "BQACAgUAAxkBAAIBDGpTuqM36LHsEkGTAaxxK3mnpGVKAAIpIwACfxyhVlkGcX2HcsMzPAQ",
+      "price": 500000
+    },
+    {
+      "name": "xzubot-main.zip",
+      "fileId": "BQACAgUAAxkBAAIBF2pTuqVI7fR4W8pYi_85zHrFFx2OAAIqIwACfxyhVlAhSl1a6q5-PAQ",
+      "price": 500000
+    },
+    {
+      "name": "BOT REACTION CH WA (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBGGpTuqUSUiJEWuBFq3BnAom8XEDeAAIrIwACfxyhVlMOWktZk48RPAQ",
+      "price": 500000
+    },
+    {
+      "name": "Vortunix-Base-Whatsap (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBGWpTuqU4z4JYDPsZP4aFc85lIgqbAAIsIwACfxyhVvdNFCsYtcvOPAQ",
+      "price": 500000
+    },
+    {
+      "name": "SIMPLE BOT JAGA GROUP TELEGRAM.zip",
+      "fileId": "BQACAgUAAxkBAAIBGmpTuqWo2VsuBZMkMh_ntAABSKgUYAACLSMAAn8coVb1BUPuORzu5jwE",
+      "price": 500000
+    },
+    {
+      "name": "feelz-keyserver.zip",
+      "fileId": "BQACAgUAAxkBAAIBG2pTuqWrdRJz9-kkEmsP7H8ky4mqAAIuIwACfxyhVsZ0izlR0sBXPAQ",
+      "price": 500000
+    },
+    {
+      "name": "BASE XMD TELEGRAM ( GYZEN ).zip",
+      "fileId": "BQACAgUAAxkBAAIBHGpTuqWasnvNYQkHIVZtXMWTRoo1AAIvIwACfxyhVuHFLy8yLBVTPAQ",
+      "price": 500000
+    },
+    {
+      "name": "SCURITI UNTUK SCRIPT TELEGRAM.zip",
+      "fileId": "BQACAgUAAxkBAAIBHWpTuqUHx_u-Vs-h2_0-aLwOWTd1AAIwIwACfxyhVvJskTcHqtoIPAQ",
+      "price": 500000
+    },
+    {
+      "name": "ALL TOOLS FITUR ANGKASA.zip",
+      "fileId": "BQACAgUAAxkBAAIBHmpTuqXzrI_S46JRwV-2UUbBEXntAAIxIwACfxyhVtZSH6vswuYaPAQ",
+      "price": 500000
+    },
+    {
+      "name": "SC AUTO REPORT TELEGRAM [ GYZEN ].zip",
+      "fileId": "BQACAgUAAxkBAAIBH2pTuqXydn3LN2h2NeKIvkyUmFN4AAIyIwACfxyhVmL-8uoWcpOUPAQ",
+      "price": 500000
+    },
+    {
+      "name": "gacha-noktel-bot.zip",
+      "fileId": "BQACAgUAAxkBAAIBIGpTuqWLJul3KP3ICcNzRrcpVW0AAzMjAAJ_HKFWA5PClZb73tk8BA",
+      "price": 500000
+    },
+    {
+      "name": "BOT CREATE LABLE SCAM.zip",
+      "fileId": "BQACAgUAAxkBAAIBK2pTuqrVL4aveqeyB3ob8IAUURHSAAI0IwACfxyhVkM6syaMAAFhXDwE",
+      "price": 500000
+    },
+    {
+      "name": "script cn.zip",
+      "fileId": "BQACAgUAAxkBAAIBLGpTuqrT_rjfakCbfiT4fMEKI-gRAAI1IwACfxyhVgpNiuTg0LovPAQ",
+      "price": 500000
+    },
+    {
+      "name": "BOT SUNTIK Abal push ch.zip",
+      "fileId": "BQACAgUAAxkBAAIBLWpTuqqlZ3AkjJ1xuxVfL7dLsKXyAAI2IwACfxyhVvzb0J4zVVlQPAQ",
+      "price": 500000
+    },
+    {
+      "name": "Gojo Satoru MD V4.5.zip",
+      "fileId": "BQACAgUAAxkBAAIBLmpTuqpSPd_nB8H5LivOeXYP-2lMAAI3IwACfxyhVqakan46nF0sPAQ",
+      "price": 500000
+    },
+    {
+      "name": "SC dementor.zip",
+      "fileId": "BQACAgUAAxkBAAIBL2pTuqqVVXb6h9JzKO5RUtXYs3nCAAI4IwACfxyhVjL7emibVMVnPAQ",
+      "price": 500000
+    },
+    {
+      "name": "IndictiveCore V5.01(Fixxed) (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBMGpTuqpUQFURv7dtkuFqlNK-CxXUAAI5IwACfxyhVndsrGKc-bcAATwE",
+      "price": 500000
+    },
+    {
+      "name": "SC DDOS WORK.zip",
+      "fileId": "BQACAgUAAxkBAAIBMWpTuqrRbmJXjoTcOuvmb3_EyXe6AAI6IwACfxyhVt07hCDxoDC2PAQ",
+      "price": 500000
+    },
+    {
+      "name": "SUNTIK FOLL CH FREE.zip.zip",
+      "fileId": "BQACAgUAAxkBAAIBMmpTuqqU1gMf9Eb93lMFo-mIesj4AAI7IwACfxyhVt1EKSjnCZyXPAQ",
+      "price": 500000
+    },
+    {
+      "name": "Alight motion.zip",
+      "fileId": "BQACAgUAAxkBAAIBM2pTuqoVTiArN9R3FkE8ir2gFK6TAAI8IwACfxyhViy5yReiFJLjPAQ",
+      "price": 500000
+    },
+    {
+      "name": "update meta by dev.zip",
+      "fileId": "BQACAgUAAxkBAAIBNGpTuqpDAShQIrnCK4ZYVdu1B-fRAAI9IwACfxyhVv6KRrJCEIP3PAQ",
+      "price": 500000
+    },
+    {
+      "name": "CREATE VPS X INSTALLPANEL AUTO IJO V1.zip",
+      "fileId": "BQACAgUAAxkBAAIBNWpTuquQ26TVoAn8m45PXaJFyANiAAI-IwACfxyhVuRHQpoAAZ_N_DwE",
+      "price": 500000
+    },
+    {
+      "name": "egg-python.json",
+      "fileId": "BQACAgUAAxkBAAIBNmpTuqv6LZMB4Aaln9T-z7QxuHVpAAI_IwACfxyhVjAQoTDlFyInPAQ",
+      "price": 500000
+    },
+    {
+      "name": "1778475798808____.zip",
+      "fileId": "BQACAgUAAxkBAAIBN2pTuqsmv9zR2bdKiLo6nFiu7GIZAAJAIwACfxyhVqBw_9HyTusjPAQ",
+      "price": 500000
+    },
+    {
+      "name": "1778474765804_sc_addakun_addtoken_create_frmn_all_github__3_.zip",
+      "fileId": "BQACAgUAAxkBAAIBOGpTuqs8covzaBAxGmUUEbXc2jNcAAJBIwACfxyhVuNSCQxU0clNPAQ",
+      "price": 500000
+    },
+    {
+      "name": "1778475798829_SC_MD_VIA_TELE.zip",
+      "fileId": "BQACAgUAAxkBAAIBOmpTuqvwGSAzM_Ji_7NDr-iP5M1nAAJCIwACfxyhVmkwm7h_AgwNPAQ",
+      "price": 500000
+    },
+    {
+      "name": "xyrootp.zip",
+      "fileId": "BQACAgUAAxkBAAIBO2pTuquNwdhfCcfq0_dfSTjawSh0AAJDIwACfxyhVmoGbGN-9E-jPAQ",
+      "price": 500000
+    },
+    {
+      "name": "Userbot-nodejs-button.zip",
+      "fileId": "BQACAgUAAxkBAAIB9mpWV0YSuaNWvQP655MLxhjKnradAAJdIwACc_MwVVnlurwXmj4uPQQ",
+      "price": 750000
+    },
+    {
+      "name": "USERBOT VIA PANEL.zip",
+      "fileId": "BQACAgUAAxkBAAIB92pWV0aMY4WtOVpkyurGinHTkQ7jAAKWHAAC_upgVR9xqm_nuS_gPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SCRIPT JAGA GRUB NEW UPDATE FREE.zip",
+      "fileId": "BQACAgUAAxkBAAIB-GpWV0Y1d1o-Zc9JrW9zxUKzyfmmAAK2IAACzk-xVbz2aQsxKyEiPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝙿𝚁𝙾𝚃𝙴𝙲𝚃 𝙵𝙸𝚇 𝚅𝟸.zip",
+      "fileId": "BQACAgUAAxkBAAIB-WpWV0YNVRWLgh7fdt0ERLeU4-HYAALXFwACVDoRV-kL65q04NQIPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙀𝙡𝙪𝙘𝙖𝙩𝙞𝙤𝙣_𝙉𝙚𝙬_𝙐𝙥𝙙𝙖𝙩𝙚.zip",
+      "fileId": "BQACAgUAAxkBAAIB-mpWV0a_c_C_OrnRSd1fTtbka8L-AAKTHAACAbExVq9FSK1eHf5TPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝙿𝚁𝙾𝚃𝙴𝙲𝚃 𝙵𝙸𝚇 𝚅𝟸.zip",
+      "fileId": "BQACAgUAAxkBAAIB-WpWV0YNVRWLgh7fdt0ERLeU4-HYAALXFwACVDoRV-kL65q04NQIPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙀𝙡𝙪𝙘𝙖𝙩𝙞𝙤𝙣_𝙉𝙚𝙬_𝙐𝙥𝙙𝙖𝙩𝙚.zip",
+      "fileId": "BQACAgUAAxkBAAIB-mpWV0a_c_C_OrnRSd1fTtbka8L-AAKTHAACAbExVq9FSK1eHf5TPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝘗𝘳𝘰𝘵𝘦𝘤𝘵_𝘕𝘦𝘸_𝘜𝘱𝘥𝘢𝘵𝘦_2_2.zip",
+      "fileId": "BQACAgUAAxkBAAICAmpWV2gAAc7om2N-FajOIt1_rwt1JgACAhkAAlJ5kFatitFMpJ3fmD0E",
+      "price": 750000
+    },
+    {
+      "name": "Protect Fixed Function.zip",
+      "fileId": "BQACAgUAAxkBAAICA2pWV2gmsv4uRB7YVnAfV6qZVvZnAAJ1GgACbogIV-lfMj12fGfmPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Protect Fixed Function.zip",
+      "fileId": "BQACAgUAAxkBAAICA2pWV2gmsv4uRB7YVnAfV6qZVvZnAAJ1GgACbogIV-lfMj12fGfmPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝗣𝗥𝗢𝗧𝗘𝗖𝗧_𝗘𝗟𝗨𝗖𝗔𝗧𝗜𝗢𝗡_𝗙𝗜𝗫𝗘𝗗_𝟮_𝟮_1.zip",
+      "fileId": "BQACAgUAAxkBAAICCmpWV6ZGB0ED9uTMdzISBbtFPB0UAAJKGwACGJwgV50GQmdgFPHuPQQ",
+      "price": 750000
+    },
+    {
+      "name": "thx@majestic-volcanic.zip",
+      "fileId": "BQACAgUAAxkBAAICC2pWV6Zhh8D2btTie-RStjvBA3MdAAILGAACvQUpV4blfCO_sQS7PQQ",
+      "price": 750000
+    },
+    {
+      "name": "Base Matrix Majestic.zip",
+      "fileId": "BQACAgUAAxkBAAICDGpWV6YXmLo90LrJhEoInhFChoaHAAKNGwACNUsJVYUBPObTFeJFPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Majestic ☇ Matr¡x [No Enc].zip",
+      "fileId": "BQACAgUAAxkBAAICDWpWV6aAsKIkzSFCpNhkWyCsExY5AAKcGQAC3XWgVLMKWOLg4mf-PQQ",
+      "price": 750000
+    },
+    {
+      "name": "MAJESTIC MATRIX BASE.zip",
+      "fileId": "BQACAgUAAxkBAAICDmpWV6ZVnCNVtIjDX8NnROstS0OSAAIRGAACvQUpV5V7fXwJzai0PQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝗣𝗥𝗢𝗧𝗘𝗖𝗧_𝗘𝗟𝗨𝗖𝗔𝗧𝗜𝗢𝗡_𝗙𝗜𝗫𝗘𝗗_𝟮_𝟮_1.zip",
+      "fileId": "BQACAgUAAxkBAAICD2pWV6a4BdIisB4ie0bZgOeqZ1PzAAK4JAACb9pYVxuNwAwOpjlSPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Apollo Cursed V24.0.zip",
+      "fileId": "BQACAgUAAxkBAAICEGpWV6Y4TrVleriBTDetcboniK2IAAL2GAACu-foVMe2mV3B37e8PQQ",
+      "price": 750000
+    },
+    {
+      "name": "BALDWIN V10.0 [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAAICEWpWV6aKHmawgurDthBtgB4yZji1AAK0GQAChUcZVfQEXtC_XDT-PQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝐌𝐈𝐑𝐙𝐙𝐗_𝐂𝐑𝐀𝐒𝐇_𝐕𝟐_𝟎_enc_buyer_.zip",
+      "fileId": "BQACAgUAAxkBAAICEmpWV6Y0itbIPCKzs36qdp5Cdv6wAAJoGwACLWBBVGSmD9HffQFcPQQ",
+      "price": 750000
+    },
+    {
+      "name": "TEXXAS V3 GEN3 ( UPDATE ).zip",
+      "fileId": "BQACAgUAAxkBAAICE2pWV6YyoGpWufr5wzQPaCE_QlYzAAIUGwACS9DYVFm7QsoDoGPbPQQ",
+      "price": 750000
+    },
+    {
+      "name": "bahan up dabis by dapaa.7z",
+      "fileId": "BQACAgUAAxkBAAICHmpWV8kXOvuqCBd5elmHHxgm5jZQAAK0HQACWOJpVUeaScMq4GdLPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SCRIPT_AUTO_ORDER.zip",
+      "fileId": "BQACAgUAAxkBAAICH2pWV8kkIAPeBYvPcIADERKFKu7RAAIiHwACp8rJVWylDQ37jvHNPQQ",
+      "price": 750000
+    },
+    {
+      "name": "DELTAX7 CRASHER V2.zip",
+      "fileId": "BQACAgUAAxkBAAICIGpWV8l0m4vtkGS7maKnB-T3EvbaAAIbHgACTinZVZ01A68L9aJqPQQ",
+      "price": 750000
+    },
+    {
+      "name": "UBOT TRIXIE VIA PANEL [ 200+ MODULE ].zip",
+      "fileId": "BQACAgUAAxkBAAICIWpWV8lmObt7MjllmvQy-JxXkYUnAALgIgAC3_rAVjECCTlNZmGJPQQ",
+      "price": 750000
+    },
+    {
+      "name": "PHISING (1) (4).zip",
+      "fileId": "BQACAgUAAxkBAAICImpWV8kRpX2IARV8_XWV7jK6PK7PAALEIAAClaYgVHHM1xJogXZOPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Base Shadow Malignant(versi Rat)  (3).zip",
+      "fileId": "BQACAgUAAxkBAAICI2pWV8nlfUQtMTQfoxd4NowVom_nAAK-HgACqOSwVNYOEg_KpObfPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC UBOT PANEL V1.0.zip",
+      "fileId": "BQACAgUAAxkBAAICJGpWV8kmfn96hOGw4hkRDxpPvCrDAAIlIgACXEnIVIOUIFqgSW7OPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC USERBOTV2.0.zip",
+      "fileId": "BQACAgUAAxkBAAICJWpWV8lpaYtjkyU5QpreF85rbOxsAAImIgACXEnIVE8M5CSyt3VMPQQ",
+      "price": 750000
+    },
+    {
+      "name": "UBOT_TELEGRAM.zip",
+      "fileId": "BQACAgUAAxkBAAICJmpWV8msOQruXD8xNe2LNhxe8VShAAIkIgACXEnIVCT7T_KsEmlOPQQ",
+      "price": 750000
+    },
+    {
+      "name": "CPANEL MAHIRU BY SHYODES.zip",
+      "fileId": "BQACAgUAAxkBAAICJ2pWV8li968svXv0KbcTxcOCGjXyAAInIgACXEnIVLBeqDkFaszaPQQ",
+      "price": 750000
+    },
+    {
+      "name": "X--MOON INFINITY V8.2(1).zip",
+      "fileId": "BQACAgUAAxkBAAICMmpWV98x0FDyZzH-dMEYSer2_ih2AAJXIAACIBMgVfGq8WfE7V-qPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Base Apk Dark Knight.zip",
+      "fileId": "BQACAgUAAxkBAAICM2pWV9_NXmmXud0OhbI_qGr_X5V6AALpIAACIBMgVfKGfMoiXLi-PQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC BUG HAPPY BIRTHDAY RASYID M.A.zip",
+      "fileId": "BQACAgUAAxkBAAICNGpWV9-nHM-MfdZpaOgRGKb8yKZsAAJAIQACOkxoVeWSeWoKJvqbPQQ",
+      "price": 750000
+    },
+    {
+      "name": "OvaliumMD V8 Free.zip",
+      "fileId": "BQACAgUAAxkBAAICNWpWV9_zVe54RUlgWHL1Vp3-wtL5AAJBIQACOkxoVQyg0QJHLvw2PQQ",
+      "price": 750000
+    },
+    {
+      "name": "OTP WHATSAPP.zip",
+      "fileId": "BQACAgUAAxkBAAICNmpWV9-8xyJHP95IqlQhyqQm2Ye9AAK9HgACq_ggVm8i9qym8GBWPQQ",
+      "price": 750000
+    },
+    {
+      "name": "feelz-keyserver.zip",
+      "fileId": "BQACAgUAAxkBAAICN2pWV99xSzned9cD-UZYdRIhCJ6pAALJIQACX01AVuQ9LOtgxP7PPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Northside V11 FreeOnly.zip",
+      "fileId": "BQACAgUAAxkBAAICPmpWV_UHLcpQelOEGrHPolgN_UoqAAJ1GwACPDxZVQzmzwLX0OmRPQQ",
+      "price": 750000
+    },
+    {
+      "name": "NEW RELEASE NORTHSIDE V25.zip",
+      "fileId": "BQACAgUAAxkBAAICP2pWV_Uzqe-3G5Q_o32W44FvU_vNAAL0JAACXMAAAVWEiteVz5tduT0E",
+      "price": 750000
+    },
+    {
+      "name": "monitoring bokep.zip",
+      "fileId": "BQACAgUAAxkBAAICQGpWV_W-ChFy2ecEJrGlsWY6SMpiAAJ-HQACU6ohVRk3BlSROi_hPQQ",
+      "price": 750000
+    },
+    {
+      "name": "FREE.zip",
+      "fileId": "BQACAgUAAxkBAAICQWpWV_XGQkHx31nQRy5mjOTZKN5pAAJ-GgACjdqBVnInWRQrXazSPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SCRIPT BOT LIMIT.zip",
+      "fileId": "BQACAgUAAxkBAAICRmpWWBPat9FAo-XaX2-O9KJ9cWlUAAJ4IgAC-n95Vj_5q9WteWrYPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SCRIPT JASHER MALSZ.zip",
+      "fileId": "BQACAgUAAxkBAAICR2pWWBPOGAl-5U8ZWlm1hpy1CScRAAIUHQACgLB5VqQF_ivhVG7bPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC TES FUNCTION NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAICSmpWWCeIgfwQQ3em4UILJVPPk0ZbAALSHwAC60vpVRS3v5qNTpoKPQQ",
+      "price": 750000
+    },
+    {
+      "name": "ENC FILE.zip",
+      "fileId": "BQACAgUAAxkBAAICS2pWWCdyo67w5hoAAYZz3P7NB5JutQAC9R0AAihD6FWYO44iXe9Nqz0E",
+      "price": 750000
+    },
+    {
+      "name": "🛠️🛠️🛠️ FIX RED.zip",
+      "fileId": "BQACAgUAAxkBAAICTGpWWCfkPUwGPLwc5VSxxH9jeUp5AAIQIgACwnLpVaEvv-4j88PtPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC COIN PUSH CH [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAAICTWpWWCdoDZJ7K57N7KwgLfhYonJjAAJDHAACJab5VQ060sy73cZFPQQ",
+      "price": 750000
+    },
+    {
+      "name": "XtrazXCORE.zip",
+      "fileId": "BQACAgUAAxkBAAICUmpWWIilYyKtQspvbyelTfULIk19AAJ0HAACNC-gVAABRTE2KNMTDT0E",
+      "price": 750000
+    },
+    {
+      "name": "xᴠᴀʀɪᴜᴢ ᴠ3.0 (ɴᴏ ᴇɴᴄ).zip",
+      "fileId": "BQACAgUAAxkBAAICU2pWWIiEiOzmUDX6HKH7SdEAAbRkZgACdRwAAjQvoFQW9cJnWKy_yT0E",
+      "price": 750000
+    },
+    {
+      "name": "𝑿𝒗𝒊𝒐𝒅𝒆𝒍𝒂𝒚𝒏𝒆𝒘_×_𝟐_𝟕_1.zip",
+      "fileId": "BQACAgUAAxkBAAICVGpWWIjEBdBrnzo7duCLyWP44fmmAAJ2HAACNC-gVFm-w2SXWbwfPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Xyrine Base (1) (1).zip",
+      "fileId": "BQACAgUAAxkBAAICVWpWWIjE1JhFpgGLadYJ_0KRpSkDAAJ3HAACNC-gVLRr31905rvJPQQ",
+      "price": 750000
+    },
+    {
+      "name": "yoyo.zip",
+      "fileId": "BQACAgUAAxkBAAICVmpWWIiWlwNzKFmPEzeJscBEQbdQAAJ4HAACNC-gVGB5R_0nyaW9PQQ",
+      "price": 750000
+    },
+    {
+      "name": "ZEP bot.zip",
+      "fileId": "BQACAgUAAxkBAAICV2pWWIjwXti6q0nTCP03owY_2AXCAAJ5HAACNC-gVMjiA3ZN7SftPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Zepyhrine.zip",
+      "fileId": "BQACAgUAAxkBAAICWGpWWIh83N0HXy45iFVRXgtHZPUZAAJ6HAACNC-gVMKXxt5X71cZPQQ",
+      "price": 750000
+    },
+    {
+      "name": "ZYRO MD TELE ENC.zip",
+      "fileId": "BQACAgUAAxkBAAICWWpWWIiAE2qLE9JEKaM17PDVzuuyAAJ7HAACNC-gVFlW6yB3xYb0PQQ",
+      "price": 750000
+    },
+    {
+      "name": "Zyro Obf Enc.zip",
+      "fileId": "BQACAgUAAxkBAAICWmpWWIgB6TYFlE6IoOS5JZ-Tl2UNAAJ8HAACNC-gVErOYUP_sQrNPQQ",
+      "price": 750000
+    },
+    {
+      "name": "CPANEL VIA TELE BY LIMVZX.zip",
+      "fileId": "BQACAgUAAxkBAAICW2pWWIiOshyq0FFLokim27xq7-43AAKBHAACNC-gVAijH-dpp-U-PQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC HANZZ CPANEL 5 SRV [ NO ENC ] (2) (1).zip",
+      "fileId": "BQACAgUAAxkBAAICXGpWWIgf2AegrNM5c4M_vPH3_QNVAAKCHAACNC-gVE92G9ppnsVlPQQ",
+      "price": 750000
+    },
+    {
+      "name": "rename sc cpanel for fanzzx 2.zip",
+      "fileId": "BQACAgUAAxkBAAICXWpWWIiy13H2vJHq9GQ7qczjlaK3AAKDHAACNC-gVAw4yf7taSxvPQQ",
+      "price": 750000
+    },
+    {
+      "name": "AUTO REPORT.zip",
+      "fileId": "BQACAgUAAxkBAAICXmpWWIiFaPBTqqxwNOMGsFJw6ypPAAKEHAACNC-gVGBYQ_lBOZzPPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC NOKOS.zip",
+      "fileId": "BQACAgUAAxkBAAICX2pWWIgKlMm-9-gM40lLP8py9hBGAAKFHAACNC-gVMMmO1Q3i0IpPQQ",
+      "price": 750000
+    },
+    {
+      "name": "SC PROTECT BY MANSZY.zip",
+      "fileId": "BQACAgUAAxkBAAICYGpWWIiMf1xi8sdLrHp-XkZKThspAAKGHAACNC-gVBA-clqzouGuPQQ",
+      "price": 750000
+    },
+    {
+      "name": "base-plugins.zip",
+      "fileId": "BQACAgUAAxkBAAICYWpWWIjM_JgPN0XrHkfLB94ZsjCFAAKHHAACNC-gVEbsHgHtd61SPQQ",
+      "price": 750000
+    },
+    {
+      "name": "ZYRO OFFICIAL (1).zip",
+      "fileId": "BQACAgUAAxkBAAICYmpWWIjaxICiGefUE5ulWhO-Pq40AAKIHAACNC-gVCrTTtO7l4XRPQQ",
+      "price": 750000
+    },
+    {
+      "name": "ZYRO MD TELE(Copy).zip",
+      "fileId": "BQACAgUAAxkBAAICY2pWWIghEo5TiQdCXc62Udb8_XAdAAKJHAACNC-gVPEO05uDYnNQPQQ",
+      "price": 750000
+    },
+    {
+      "name": "FyzzCrasher V11.0.zip",
+      "fileId": "BQACAgUAAxkBAAICZGpWWIglpfqiVZgJkBl7U_azesFOAAKKHAACNC-gVPiTjOtESPe1PQQ",
+      "price": 750000
+    },
+    {
+      "name": "website.zip",
+      "fileId": "BQACAgUAAxkBAAICZWpWWIhAjDbnsn371NqSJfPO0bT9AAIaIgACdfbZV1gXNbfmi7wHPQQ",
+      "price": 750000
+    },
+    {
+      "name": "XEROVANG VERSION 2 TELE ENC.zip",
+      "fileId": "BQACAgUAAxkBAAICZmpWWIhwyV0qA-zkeTp5ygd7uSl0AAIpIgACdfbZV90Tbw6ei3tSPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Xerovang Version 3 Tele [ENC].zip",
+      "fileId": "BQACAgUAAxkBAAICZ2pWWIj3bS2a1MmtQbJXxup2UD-tAAIqIgACdfbZV14k-6QKIpO6PQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝗫𝗠𝗢𝗡𝗦𝗛𝗢𝗧_𝗩𝗜𝗣(1).zip",
+      "fileId": "BQACAgUAAxkBAAICaGpWWIiX5FS-nwxab3O_sNpMZqTuAAIsIgACdfbZVwABTMd1Tqgvkj0E",
+      "price": 750000
+    },
+    {
+      "name": "XOVIERA OX BASE.zip",
+      "fileId": "BQACAgUAAxkBAAICaWpWWIhfBYlfjqTv2iRUypeIK-WhAAItIgACdfbZV5MxfictmdPyPQQ",
+      "price": 750000
+    },
+    {
+      "name": "xransv12 NODE 20+ (1).zip",
+      "fileId": "BQACAgUAAxkBAAICampWWIjgwOnNHU2l4hiG9JfaYas-AAIvIgACdfbZV1q0N_pzfwjrPQQ",
+      "price": 750000
+    },
+    {
+      "name": "XtrazXCORE.zip",
+      "fileId": "BQACAgUAAxkBAAICa2pWWIgWodV7CChI-pwLiHaKkR3AAAIyIgACdfbZV0qCYpK8IXpaPQQ",
+      "price": 750000
+    },
+    {
+      "name": "𝑿𝒗𝒊𝒐𝒅𝒆𝒍𝒂𝒚𝒏𝒆𝒘_×_𝟐_𝟕_1.zip",
+      "fileId": "BQACAgUAAxkBAAICbGpWWIhfOokWLc19gAx4L9LUw86OAAIzIgACdfbZV1IDWnnhgVnQPQQ",
+      "price": 750000
+    },
+    {
+      "name": "xᴠᴀʀɪᴜᴢ ᴠ3.0 (ɴᴏ ᴇɴᴄ).zip",
+      "fileId": "BQACAgUAAxkBAAICbWpWWIgDc6Wf0XtSAqNEhDJn4PpDAAI1IgACdfbZVwaHdAuRM12lPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Xyrine Base (1) (1).zip",
+      "fileId": "BQACAgUAAxkBAAICbmpWWIiR03pnj9ZugfBInAjz1JdnAAI2IgACdfbZV8d56ViYz9AwPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Y U K I  S U O U  -  A I ROSHIDERE SOFT V20.zip",
+      "fileId": "BQACAgUAAxkBAAICb2pWWIiEEK5QWImLIwzGkCQdSGlMAAI4IgACdfbZV3oAAV_7XNkIpT0E",
+      "price": 750000
+    },
+    {
+      "name": "yoyo.zip",
+      "fileId": "BQACAgUAAxkBAAICcGpWWIgT2gpKp-jijjgsxSyh-QfPAAI5IgACdfbZV5YQNFSUcAs3PQQ",
+      "price": 750000
+    },
+    {
+      "name": "ZEP bot.zip",
+      "fileId": "BQACAgUAAxkBAAICcWpWWIi272cfIqxds6pw_CVEVxh-AAI7IgACdfbZV9kju70AAVB_Az0E",
+      "price": 750000
+    },
+    {
+      "name": "𝚉𝚈𝙹𝙰𝚂𝙷𝙴𝚁_𝚅𝟷_5_𝙽𝙾_𝙴𝙽𝙲_2.zip",
+      "fileId": "BQACAgUAAxkBAAICcmpWWIhsmCYK6M3WdoRBcpDmGv6DAAJAIgACdfbZV79PisShfSQPPQQ",
+      "price": 750000
+    },
+    {
+      "name": "CpanelVip x Jack_ShowXz.zip",
+      "fileId": "BQACAgUAAxkBAAICc2pWWIhqnaUViD3_PUMXfN7ZitNrAAIMGwACfJlpVT5cVdkFGt6PPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Project @Show_GilXz.zip",
+      "fileId": "BQACAgEAAxkBAAICdGpWWIhQx2nuJyf8ho_7QJvqVJPDAALcBwACm5SRR0ixlctLk9BmPQQ",
+      "price": 750000
+    },
+    {
+      "name": "eggbotpanel.js",
+      "fileId": "BQACAgUAAxkBAAICdWpWWIiiPoObM8SwUa1QeCS1u-4pAAKcGgACV6c4Voa9HYmf56mjPQQ",
+      "price": 750000
+    },
+    {
+      "name": "Dementor V12 Version Free.zip",
+      "fileId": "BQACAgUAAxkBAAICdmpWWIhepI4W6y5x0C-6XRaghYp7AAJwIQAC_a7ZVCh-dYjih_WcPQQ",
+      "price": 750000
+    },
+    {
+      "name": "A SC BOT GMAIL.zip",
+      "fileId": "BQACAgUAAxkBAAICqGpWYyyH6BJitU5x71d1Qu688KYdAAJlJQAC9tRYVLh4_rBjIgABDj0E",
+      "price": 10000000
+    }
+  ],
+  "redeemCodes": {},
+  "alightSessions": {
+    "2102908949": {
+      "step": null,
+      "email": null,
+      "link": null
+    },
+    "6275668055": {
+      "step": null,
+      "email": null,
+      "link": null
+    },
+    "5581580711": {
+      "step": null,
+      "email": null,
+      "link": null
+    }
+  },
+  "maintenance": false,
+  "usedEmails": {
+    "sudahterbiasaterjaditante5@gmail.com": "2026-07",
+    "nabihaalvin@gmail.com": "2026-07"
+  }
+}
